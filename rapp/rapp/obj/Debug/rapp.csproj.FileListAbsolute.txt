@@ -11,3 +11,4 @@ C:\Users\Mustafa\Documents\GitHub\rapp\rapp\rapp\obj\Debug\rapp.Properties.Resou
 C:\Users\Mustafa\Documents\GitHub\rapp\rapp\rapp\obj\Debug\rapp.csproj.GenerateResource.Cache
 C:\Users\Mustafa\Documents\GitHub\rapp\rapp\rapp\obj\Debug\rapp.exe
 C:\Users\Mustafa\Documents\GitHub\rapp\rapp\rapp\obj\Debug\rapp.pdb
+C:\Users\Mustafa\Documents\GitHub\rapp\rapp\rapp\obj\Debug\rapp.csprojResolveAssemblyReference.cache
