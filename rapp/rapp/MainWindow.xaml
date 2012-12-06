@@ -18,6 +18,6 @@
         <TextBox HorizontalAlignment="Left" Height="20" Margin="107,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="91" TextChanged="TextBox_TextChanged_1" RenderTransformOrigin="-0.946,-7.149"/>
         <Image Margin="285,107,64,137" Source="xxs.JPG" Stretch="Fill"/>
         <Image Margin="126,10,343,257" Source="Image1.png" Stretch="Fill"/>
-        <Image Margin="126,165,343,104" Source="Image2.png" Stretch="Fill"/>
+        <Image Margin="126,175,353,104" Source="Image2.png" Stretch="Fill"/>
     </Grid>
 </Window>
