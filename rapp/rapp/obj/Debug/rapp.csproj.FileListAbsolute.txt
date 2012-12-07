@@ -12,3 +12,15 @@ C:\Users\Mustafa\Documents\GitHub\rapp\rapp\rapp\obj\Debug\rapp.csproj.GenerateR
 C:\Users\Mustafa\Documents\GitHub\rapp\rapp\rapp\obj\Debug\rapp.exe
 C:\Users\Mustafa\Documents\GitHub\rapp\rapp\rapp\obj\Debug\rapp.pdb
 C:\Users\Mustafa\Documents\GitHub\rapp\rapp\rapp\obj\Debug\rapp.csprojResolveAssemblyReference.cache
+C:\Users\Sivan\Documents\GitHub\rapp\rapp\rapp\obj\Debug\rapp.exe
+C:\Users\Sivan\Documents\GitHub\rapp\rapp\rapp\obj\Debug\rapp.pdb
+C:\Users\Sivan\Documents\GitHub\rapp\rapp\rapp\bin\Debug\rapp.exe
+C:\Users\Sivan\Documents\GitHub\rapp\rapp\rapp\bin\Debug\rapp.pdb
+C:\Users\Sivan\Documents\GitHub\rapp\rapp\rapp\obj\Debug\rapp.csprojResolveAssemblyReference.cache
+C:\Users\Sivan\Documents\GitHub\rapp\rapp\rapp\obj\Debug\App.g.cs
+C:\Users\Sivan\Documents\GitHub\rapp\rapp\rapp\obj\Debug\rapp_MarkupCompile.cache
+C:\Users\Sivan\Documents\GitHub\rapp\rapp\rapp\obj\Debug\rapp.g.resources
+C:\Users\Sivan\Documents\GitHub\rapp\rapp\rapp\obj\Debug\rapp.Properties.Resources.resources
+C:\Users\Sivan\Documents\GitHub\rapp\rapp\rapp\obj\Debug\rapp.csproj.GenerateResource.Cache
+C:\Users\Sivan\Documents\GitHub\rapp\rapp\rapp\obj\Debug\MainWindow.baml
+C:\Users\Sivan\Documents\GitHub\rapp\rapp\rapp\obj\Debug\MainWindow.g.cs
