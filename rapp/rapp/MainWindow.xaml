@@ -3,21 +3,21 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <PasswordBox HorizontalAlignment="Left" Margin="107,260,0,0" VerticalAlignment="Top" Width="91"/>
-        <Label Content="Username" HorizontalAlignment="Left" Margin="39,221,0,0" VerticalAlignment="Top"/>
-        <Label Content="Password" HorizontalAlignment="Left" VerticalAlignment="Top" Width="82" Margin="39,254,0,0"/>
-        <TextBox HorizontalAlignment="Left" Height="20" Margin="107,227,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="91" TextChanged="TextBox_TextChanged_1" RenderTransformOrigin="-0.946,-7.149"/>
-        <Image Margin="114,182,370,104" Source="Image5.png" Stretch="Fill"/>
-        <PasswordBox HorizontalAlignment="Left" Margin="107,260,0,0" VerticalAlignment="Top" Width="91"/>
-        <TextBox HorizontalAlignment="Left" Height="20" Margin="107,227,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="91" TextChanged="TextBox_TextChanged_1" RenderTransformOrigin="-0.946,-7.149"/>
-        <PasswordBox HorizontalAlignment="Left" Margin="107,260,0,0" VerticalAlignment="Top" Width="91"/>
-        <TextBox HorizontalAlignment="Left" Height="20" Margin="107,227,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="91" TextChanged="TextBox_TextChanged_1" RenderTransformOrigin="-0.946,-7.149"/>
-        <PasswordBox HorizontalAlignment="Left" Margin="107,113,0,0" VerticalAlignment="Top" Width="91"/>
-        <Label Content="Username" HorizontalAlignment="Left" Margin="39,74,0,0" VerticalAlignment="Top"/>
-        <Label Content="Password" HorizontalAlignment="Left" VerticalAlignment="Top" Width="82" Margin="39,107,0,0"/>
-        <TextBox HorizontalAlignment="Left" Height="20" Margin="107,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="91" TextChanged="TextBox_TextChanged_1" RenderTransformOrigin="-0.946,-7.149"/>
-        <Image Margin="285,107,64,137" Source="xxs.JPG" Stretch="Fill"/>
-        <Image Margin="126,10,343,257" Source="Image1.png" Stretch="Fill"/>
-        <Image Margin="126,175,353,104" Source="Image2.png" Stretch="Fill"/>
+        <PasswordBox HorizontalAlignment="Left" Margin="365,265,0,0" VerticalAlignment="Top" Width="91"/>
+        <Label Content="Username" HorizontalAlignment="Left" Margin="297,226,0,0" VerticalAlignment="Top"/>
+        <Label Content="Password" HorizontalAlignment="Left" VerticalAlignment="Top" Width="82" Margin="297,259,0,0"/>
+        <TextBox HorizontalAlignment="Left" Height="20" Margin="365,232,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="91" TextChanged="TextBox_TextChanged_1" RenderTransformOrigin="-0.946,-7.149"/>
+        <Image Margin="372,187,112,99" Source="Image5.png" Stretch="Fill"/>
+        <PasswordBox HorizontalAlignment="Left" Margin="365,265,0,0" VerticalAlignment="Top" Width="91"/>
+        <TextBox HorizontalAlignment="Left" Height="20" Margin="365,232,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="91" TextChanged="TextBox_TextChanged_1" RenderTransformOrigin="-0.946,-7.149"/>
+        <PasswordBox HorizontalAlignment="Left" Margin="365,265,0,0" VerticalAlignment="Top" Width="91"/>
+        <TextBox HorizontalAlignment="Left" Height="20" Margin="365,232,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="91" TextChanged="TextBox_TextChanged_1" RenderTransformOrigin="-0.946,-7.149"/>
+        <PasswordBox HorizontalAlignment="Left" Margin="120,271,0,0" VerticalAlignment="Top" Width="91"/>
+        <Label Content="Username" HorizontalAlignment="Left" Margin="52,232,0,0" VerticalAlignment="Top"/>
+        <Label Content="Password" HorizontalAlignment="Left" VerticalAlignment="Top" Width="82" Margin="52,265,0,0"/>
+        <TextBox HorizontalAlignment="Left" Height="20" Margin="120,238,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="91" TextChanged="TextBox_TextChanged_1" RenderTransformOrigin="-0.946,-7.149"/>
+        <Image Margin="139,168,330,99" Source="Image1.png" Stretch="Fill"/>
+        <Image Margin="384,180,95,99" Source="Image2.png" Stretch="Fill"/>
+        <Image Margin="0,22,0,220" Source="Image3.png" Stretch="Fill"/>
     </Grid>
 </Window>
